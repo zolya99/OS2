@@ -1,1 +1,64 @@
-.navbar { margin-bottom: 1rem; }
+body {
+	height: 12000px;
+	background-image: radial-gradient(#5680E9, #84CEEB, #5AB9EA, #C1C8E4, #8860D0) !important;
+}
+
+#data {
+	margin: 0 auto;
+	width: 500px;
+	text-align: center;
+	
+	padding: 30px;
+	border: 3px solid green;
+	
+}
+
+#inner{
+	
+}
+div > div > div > h1{
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+ 
+div.w3-container {
+	border-bottom: 1px solid black;
+}
+
+#link{
+	color: black;
+	font-size: 24px;
+	text-align: center;
+	font-family: Calibri;
+}
+
+#logout{
+	font-weight: bold;
+	color: red;
+	font-size: 24px;
+	text-align: center;
+	font-family: Calibri;
+}
+
+#prof{
+	font-size: 48px;
+	font-weight: bold;
+	
+}
+
+#image{
+	margin-top: 50px;
+	
+	border-radius: 50%;
+}
+
+#submit{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#edit{
+	color: black;
+}

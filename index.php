@@ -2,7 +2,6 @@
 <?php require_once 'protected/config.php'; ?>
 <?php require_once USER_MANAGER; ?>
 <?php require_once PROTECTED_DIR.'sidebar.php'; ?>
-#<?php require_once PROTECTED_DIR.'header.php'; ?>
 
 <!DOCTYPE html>
 <html>
